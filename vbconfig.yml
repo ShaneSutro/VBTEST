@@ -1,0 +1,4 @@
+fields:
+  text:
+    type: string
+    required: false
