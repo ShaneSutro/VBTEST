@@ -1,0 +1,8 @@
+{
+  "fields": {
+    "text": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
