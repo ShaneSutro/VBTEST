@@ -1,7 +1,7 @@
 from vestaboard import Formatter
 
 def main(*args, **kwargs):
-  print('args: ', args)
+  print('Changed args: ', args)
   fm = Formatter()
   return {'characters': fm.convert('ABCDEF')}
 
